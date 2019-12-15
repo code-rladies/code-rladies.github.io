@@ -8,7 +8,7 @@
 
 facebook:
   name: "Facebook"
-  baseURL: "https://www.facebook.com/"
+  baseURL: "https://www.facebook.com/groups/"
   icon: "fa-facebook"
 
 github:
