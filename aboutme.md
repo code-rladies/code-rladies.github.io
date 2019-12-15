@@ -2,15 +2,13 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a local chapter of R-Ladies Global. Many of our meetings are based in Columbia, MO but we are focused on bringing together R-Ladies throughout Mid-Missouri. Our mission is to encourage data science and coding in Mid-Missouri for under-represented genders. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+While R is what brought us together, we aim to be an inclusive group, bringing together the multitude of coding skills throughout Mid-Missouri. Data science is a multidisciplinary activity; to share your ideas with the world and creating production-ready code often means bringing together people from a variety of disciplines and expertise in order to grow. 
 
-What else do you need?
+### Code-RLadies Organizers
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+We have several organizers (you can see us on [our R-Ladies Mid-Mo Meetup group](https://www.meetup.com/rladies-mid-mo/)), but we are continually looking for people who would like to get involved, present, and help make Code-RLadies MidMo even better! You can also email us at [rladiesmidmo@gmail.com](mailto:rladiesmidmo@gmail.com).
