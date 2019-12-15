@@ -66,10 +66,10 @@ author:
 social-network-links:
   rss: true
   email: "rladiesmidmo@gmail.com"
-  facebook: RLadies-MidMO
+  facebook: "groups/396114954402290/"
   github: code-rladies
   twitter: rmidmo
-  meetup: "https://www.meetup.com/rladies-mid-mo/"
+  meetup: rladies-mid-mo
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -86,8 +86,8 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  #facebook: true
-  #	meetup: true
+  facebook: true
+  	meetup: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
