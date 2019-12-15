@@ -66,7 +66,7 @@ author:
 social-network-links:
   rss: true
   email: "rladiesmidmo@gmail.com"
-  facebook: groups/396114954402290
+  facebook: 396114954402290
   github: code-rladies
   twitter: rmidmo
   meetup: rladies-mid-mo
@@ -87,7 +87,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  	meetup: true
+  meetup: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
