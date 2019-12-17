@@ -21,7 +21,7 @@ description: Encouraging data science and coding in Mid-Missouri for under-repre
 # List of links in the navigation bar
 navbar-links:
   About: "aboutus"
-  Join: "https://www.meetup.com/rladies-mid-mo"
+  Join: "join"
   Events: "https://www.meetup.com/rladies-mid-mo/events/"
   R-Ladies Global: "https://rladies.org"
 
