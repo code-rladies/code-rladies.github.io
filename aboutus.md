@@ -23,6 +23,6 @@ We are pro-actively inclusive of queer, trans, and all minority identities, with
 
 ### And the rest of the story...
 
-Make sure you read and comply with our code of conduct ( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) and community guidelines ( https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md ).
+Make sure you read and comply with our [code of conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) and [community guidelines](https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md).
 
 Please note that by taking part in an R-Ladies event you grant the community organizers full rights to use the images resulting from the photography/video filming/media, and any reproductions or adaptations of the images for publicity, fundraising or other purposes to help achieve the community’s aims. This might include (but is not limited to), the right to use them in their printed and online publicity, social media, press releases and funding applications. If you do not wish to be recorded in these media please inform a community organizer.
