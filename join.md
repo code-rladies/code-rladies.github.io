@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How to Join Code-RLadies
-subtitle: The real world is better!
+title: Join Us!
+subtitle: The meeting is better with you in it!
 published: true
 ---
 
