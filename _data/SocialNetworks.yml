@@ -81,6 +81,11 @@ rss:
   baseURL: "{{ '/feed.xml' | relative_url }}"
   icon: "fas fa-rss"
 
+slack:
+  name: "Slack"
+  baseURL: "https://r-ladies-midmo.slack.com/"
+  icon: "fab fa-slack"
+  
 steam:
   name: "Steam"
   baseURL: "https://steamcommunity.com/id/"
